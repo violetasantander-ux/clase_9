@@ -1,0 +1,498 @@
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+    <g id="viz">
+        <g transform="translate(0,0)">
+            <g transform="translate(90,20)">
+                <g class="bars">
+                    <rect
+                        id="undefined - United Kingdom"
+                        x="0"
+                        y="509.18165613352784"
+                        height="15.941230486685035"
+                        width="323.125"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - United States"
+                        x="0"
+                        y="526.1211040890186"
+                        height="15.941230486685035"
+                        width="705"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Italy"
+                        x="0"
+                        y="305.908280667639"
+                        height="15.941230486685035"
+                        width="176.25"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Finland"
+                        x="0"
+                        y="204.27159293469458"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Netherlands"
+                        x="0"
+                        y="373.66607248960196"
+                        height="15.941230486685035"
+                        width="117.5"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - China (Mainland)"
+                        x="0"
+                        y="119.57435315724088"
+                        height="15.941230486685035"
+                        width="176.25"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Australia"
+                        x="0"
+                        y="17.937665424296444"
+                        height="15.941230486685035"
+                        width="146.875"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Singapore"
+                        x="0"
+                        y="407.54496840058346"
+                        height="15.941230486685035"
+                        width="88.125"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Denmark"
+                        x="0"
+                        y="170.39269702371308"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Hong Kong"
+                        x="0"
+                        y="255.08993680116677"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Austria"
+                        x="0"
+                        y="34.87711337978718"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Sweden"
+                        x="0"
+                        y="441.4238643115649"
+                        height="15.941230486685035"
+                        width="88.125"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Malaysia"
+                        x="0"
+                        y="339.78717657862046"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Canada"
+                        x="0"
+                        y="85.6954572462594"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - France"
+                        x="0"
+                        y="221.2110408901853"
+                        height="15.941230486685035"
+                        width="88.125"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Switzerland"
+                        x="0"
+                        y="458.3633122670556"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - South Korea"
+                        x="0"
+                        y="424.4844163560742"
+                        height="15.941230486685035"
+                        width="88.125"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Germany"
+                        x="0"
+                        y="238.15048884567605"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Mexico"
+                        x="0"
+                        y="356.72662453411124"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Ireland"
+                        x="0"
+                        y="288.96883271214824"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Thailand"
+                        x="0"
+                        y="492.2422081780371"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Vietnam"
+                        x="0"
+                        y="543.0605520445093"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Japan"
+                        x="0"
+                        y="322.84772862312974"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Argentina"
+                        x="0"
+                        y="0.9982174688057057"
+                        height="15.941230486685035"
+                        width="58.75"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Czech Republic"
+                        x="0"
+                        y="153.45324906822236"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Chile"
+                        x="0"
+                        y="102.63490520175014"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - India"
+                        x="0"
+                        y="272.0293847566575"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Colombia"
+                        x="0"
+                        y="136.5138011127316"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Saudi Arabia"
+                        x="0"
+                        y="390.6055204450927"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Estonia"
+                        x="0"
+                        y="187.33214497920383"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Taiwan"
+                        x="0"
+                        y="475.3027602225464"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Belgium"
+                        x="0"
+                        y="51.816561335277925"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                    <rect
+                        id="undefined - Brazil"
+                        x="0"
+                        y="68.75600929076866"
+                        height="15.941230486685035"
+                        width="29.375"
+                        fill="#1fa2b4"
+                    />
+                </g>
+                <g
+                    id="xAxis"
+                    transform="translate(0,560)"
+                    fill="none"
+                    font-size="10"
+                    font-family="sans-serif"
+                    text-anchor="middle"
+                >
+                    <path class="domain" stroke="currentColor" d="M0.5,6V0.5H705.5V6" />
+                    <g class="tick" opacity="1" transform="translate(0.5,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(59.25,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">2</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(118,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">4</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(176.75,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">6</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(235.5,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">8</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(294.25,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(353,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">12</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(411.75,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">14</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(470.5,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">16</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(529.25,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">18</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(588,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(646.75,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">22</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(705.5,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">24</text>
+                    </g>
+                    <text
+                        font-family="Arial, sans-serif"
+                        font-size="10"
+                        x="705"
+                        dy="-5"
+                        fill="black"
+                        font-weight="bold"
+                        text-anchor="end"
+                    />
+                </g>
+                <g
+                    id="yAxis"
+                    transform="translate(0,0)"
+                    fill="none"
+                    font-size="10"
+                    font-family="sans-serif"
+                    text-anchor="end"
+                >
+                    <path class="domain" stroke="currentColor" d="M0.5,0.5V560.5" />
+                    <g class="tick" opacity="1" transform="translate(0,8.968832712148224)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Argentina</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,25.908280667638962)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Australia</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,42.8477286231297)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Austria</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,59.78717657862044)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Belgium</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,76.72662453411118)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Brazil</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,93.66607248960192)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Canada</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,110.60552044509267)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Chile</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,127.5449684005834)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">China (Mainland)</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,144.48441635607412)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Colombia</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,161.42386431156487)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Czech Republic</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,178.3633122670556)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Denmark</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,195.30276022254634)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Estonia</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,212.2422081780371)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Finland</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,229.1816561335278)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">France</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,246.12110408901856)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Germany</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,263.0605520445093)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Hong Kong</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,280.00000000000006)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">India</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,296.9394479554908)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Ireland</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,313.87889591098156)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Italy</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,330.8183438664723)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Japan</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,347.757791821963)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Malaysia</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,364.6972397774538)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Mexico</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,381.6366877329445)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Netherlands</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,398.5761356884352)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Saudi Arabia</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,415.515583643926)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Singapore</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,432.4550315994167)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">South Korea</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,449.39447955490743)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Sweden</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,466.33392751039815)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Switzerland</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,483.27337546588893)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Taiwan</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,500.21282342137965)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Thailand</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,517.1522713768703)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">United Kingdom</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,534.0917193323611)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">United States</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,551.0311672878519)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">Vietnam</text>
+                    </g>
+                </g>
+            </g>
+            <text
+                y="4"
+                x="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 12px;
+                    fill: black;
+                    font-weight: bold;
+                    dominant-baseline: hanging;
+                "
+            />
+        </g>
+    </g>
+</svg>
